@@ -11,6 +11,6 @@ var name = "Anna";
 let age = 21;
 }
 
-console. log (name) ; 
-console. log (age);
-console. log (country);
+console.log(name); 
+console.log(age);
+console.log(country);
